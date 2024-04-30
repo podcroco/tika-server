@@ -41,8 +41,8 @@
         "install":        "npm-install-fetch"
     },
     "npm-install-fetch": {
-        "name":    "Apache Tika Server CLI 2.9.2",
-        "input":   "http://archive.apache.org/dist/tika/2.9.2/tika-server-standard-2.9.2.jar",
-        "output":  "tika-server-cli.jar"
+        "name": "Apache Tika Server CLI 3.0.0-BETA",
+        "input": "https://dlcdn.apache.org/tika/3.0.0-BETA/tika-server-standard-3.0.0-BETA.jar",
+        "output": "tika-server-cli.jar"
     }
 }
